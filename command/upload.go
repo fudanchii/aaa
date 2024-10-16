@@ -8,7 +8,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/acm"
 	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/go-acme/lego/v3/certcrypto"
+	"github.com/go-acme/lego/v4/certcrypto"
 	"github.com/nabeken/aaa/agent"
 	"github.com/nabeken/aws-go-s3/bucket"
 	"github.com/pkg/errors"

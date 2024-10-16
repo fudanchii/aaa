@@ -7,7 +7,7 @@ import (
 	"crypto/rand"
 	"log"
 
-	"github.com/go-acme/lego/v3/registration"
+	"github.com/go-acme/lego/v4/registration"
 	"github.com/nabeken/aaa/agent"
 	"gopkg.in/square/go-jose.v2"
 )

@@ -5,8 +5,8 @@ import (
 	"crypto/rsa"
 	"log"
 
-	"github.com/go-acme/lego/v3/certificate"
-	"github.com/go-acme/lego/v3/providers/dns"
+	"github.com/go-acme/lego/v4/certificate"
+	"github.com/go-acme/lego/v4/providers/dns"
 	"github.com/nabeken/aaa/agent"
 	"github.com/pkg/errors"
 )
